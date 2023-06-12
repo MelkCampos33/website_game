@@ -84,7 +84,7 @@ body {
     color: var(--white);
 }
 
-.nav-cardapio .nav-link.active, #fale-conosco button {
+.nav-cardapio .nav-link.active, #contato button {
     background-color: var(--green);
     color: #fff;
 }
@@ -106,6 +106,5 @@ body {
     .carousel-item img {
         height: 280px;
     }
-
 
 }
